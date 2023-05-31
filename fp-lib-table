@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "H4X0R-small")(type KiCad)(uri "$(KIPRJMOD)/H4X0R-small.pretty")(options "")(descr ""))
+)
